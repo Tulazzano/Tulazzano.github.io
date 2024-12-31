@@ -3,5 +3,9 @@
         "HOME":" HOME",
         "RULES":"REGOLAMENTO",
         "CONTACTS":"CONTATTI"
+    },
+    "HOWTOPLAY":{
+        "WHAT_IS_TITLE":"CHE COSA E' SBAM!",
+        "WHAT_IS_TEXT":"SBAM! è un gioco di carte pvp a due giocatori, che combina la strategia di un classico TCG applicato a due mazzi da gioco."
     }
 }
